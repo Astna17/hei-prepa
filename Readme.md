@@ -1,1 +1,5 @@
-Please clean this code as thoroughly as possible. While it executes without errors, its current writing style has many flaws and lacks clarity.
+## Run
+> Java 11+ and terminal
+
+## Compile 
+> java chemin/Main.java
