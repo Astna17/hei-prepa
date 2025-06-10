@@ -1,3 +1,4 @@
+package snake.Model;
 import java.util.Deque;
 
 public class Snake {
